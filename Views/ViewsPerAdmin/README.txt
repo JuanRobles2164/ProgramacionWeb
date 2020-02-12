@@ -1,0 +1,1 @@
+Aquí van sólo las vistas relacionadas con los administradores
