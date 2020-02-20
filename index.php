@@ -1,4 +1,6 @@
-
+<?php
+    require_once("Controllers/DB/DB.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +13,30 @@
     <title>index</title>
 </head>
 <body>
-  
+  <table class="table">
+    <thead>
+        <tr>
+            <th scope="row">ID</th>
+            <th scope="row">Descripcion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php
+        $resultado = DB::select("SELECT * FROM PRUEBA");
+
+        if(mysqli_num_rows($resultado) != 0){
+            while($data = mysqli_fetch_array($resultado)){
+        ?>
+                <tr>
+                    <th scope="row"><?php echo $data["ID"]; ?></th>
+                    <th scope="row"><?php echo $data["DESCRIPCION"]; ?></th>
+                </tr>
+        <?php
+            }
+        }
+        ?>
+    </tbody>
+  </table>
 
 </body>
 </html>
