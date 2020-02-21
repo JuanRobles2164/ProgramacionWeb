@@ -55,6 +55,11 @@ además de que para eso eso, para "soltarse"
 Recomiendo no hacer más de 3 push al repositorio por día por equipo/persona
 Para que al manejar el control de versiones, sea todo más sencillo
 
+------- CUESTIONES DE SOPORTE Y AYUDA DIRECTA EN EL CPANEL -------
+escribir al correo: jrobles4@udi.edu.co
+con el asunto "Electiva II -----" y reemplazan los guiones por lo que necesiten solucionar
+ * Si es de las vistas -> Electiva II Views
+ * Si es un cambio en la Base de Datos -> 'Electiva II Base de Datos' ó 'Electiva II BD'
 
 Es todo, por ahora.
 

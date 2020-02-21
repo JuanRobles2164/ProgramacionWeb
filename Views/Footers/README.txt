@@ -1,0 +1,1 @@
+Aquí irán sólo los pies de página que le corresponden a cada una de las vistas

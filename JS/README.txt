@@ -1,4 +1,6 @@
 Aquí sólo van código JavaScript
 
-En clase definiremos si estableceremos editar un único archivo
-O un archivo JS por vista
+De a cuerdo a la carpeta, serán los scripts que estarán ligados a las vistas
+
+La carpeta de scripts de docentes, sólo estará ligada a las vistas de los docentes
+Y así...
