@@ -46,13 +46,13 @@ No poner cosas como:
     -> update
     -> XD (o cualquier otro nombre "troll")
 Pues estas ambigüedades no proporcionan información sobre lo que trabajaron en ese archivo
-Además de retrasar el desarrollo del proyecto
+Además de retrasar el desarrollo del proyecto.
 
 Y en el recuadro inferior, ser tan específicos como deseen, pues no tiene un límite de chars
-además de que para eso eso, para "soltarse"
+además de que para eso es, para "soltarse".
 
 
-Recomiendo no hacer más de 3 push al repositorio por día por equipo/persona
+Recomiendo no hacer más de 3 push al repositorio al día por equipo/persona
 Para que al manejar el control de versiones, sea todo más sencillo
 
 ------- CUESTIONES DE SOPORTE Y AYUDA DIRECTA EN EL CPANEL -------
